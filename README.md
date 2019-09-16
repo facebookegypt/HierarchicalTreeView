@@ -3,9 +3,9 @@
 <p>This VB .NET 2010 Project explains how to populate a TreeView control with Data from Microsoft Access 2007 Database.</p>
 <p>The Database example is USER Info</p>
 <p>Database [hierarchical.accdb] has 3 tables</p>
-<ul>1) BasicInfo [Primary : CityID]
-2) us_cities  [Primary : ID]
-3) us_states  [Primary : ID_STATE]</ul>
+<ul>1) BasicInfo [Primary : CityID]</ul>
+<ul>2) us_cities  [Primary : ID]</ul>
+3) us_states  [Primary : ID_STATE]
 three table are related through those primary keys.
 In this example, I try to :
 1) Use Module to create functions to validate OleDBConnect to the database
