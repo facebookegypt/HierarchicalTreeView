@@ -13,8 +13,8 @@ In this example, I try to :
 3) Populate a combobox on main form with 29.8k data [City-State_code] using dictionary(Key,Value)
 4) Insert,update,select,delete image to database and retrieve it to form picturebox control and TreeView Treenodes
 
-[Dependancies]
+<p>[Dependancies]
 Microsoft Windows 32bit with .NET 4
 Visual Studio 2010 or 2015
 Microsoft Database Engine 2007
-Administrator rights
+Administrator rights</p>
